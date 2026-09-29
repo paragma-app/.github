@@ -1,6 +1,6 @@
-## Hi there 👋
 ![Paragma Logo](assets/Paragma.svg)
 
+[![CI](https://github.com/paragma-app/paragma/actions/workflows/swift.yml/badge.svg)](https://github.com/paragma-app/paragma/actions/workflows/swift.yml)
 <!--
 
 **Here are some ideas to get you started:**
